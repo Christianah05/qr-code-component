@@ -45,7 +45,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
-- [GitHub Pages](https://pages.github.com/)
+- [GitHub Pages](https://github.com/Christianah05/qr-code-component.git)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
